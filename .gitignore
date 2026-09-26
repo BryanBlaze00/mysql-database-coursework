@@ -1,0 +1,14 @@
+# Ignore environment and password files
+*.env
+config.json
+passwords.txt
+
+# Ignore heavy database dumps or binary logs
+*.dump
+*.sqldump
+*.log
+*.ibd
+
+# OS generated files
+.DS_Store
+Thumbs.db
