@@ -16,3 +16,4 @@ This repository tracks my database development progress, complex queries, and pr
 - `01-schema-setup/` — Database DDL scripts and table creation scripts.
 - `02-queries-and-selects/` — Data retrieval scripts and query optimization exercises.
 - `03-stored-programs/` — Stored procedures, user-defined functions, and automated triggers.
+- `04-assignments/` — Turned in assignements.
