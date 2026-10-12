@@ -12,3 +12,14 @@ passwords.txt
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# SQLite / Local DBs
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# SQL Server / Workbench temp files
+*.log
+*.tmp
